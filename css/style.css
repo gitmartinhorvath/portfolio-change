@@ -30,6 +30,8 @@
 
   5.  Footer
 
+   #. contribution 26.03.2023
+
 
 
 /*-------------------------------------------------------------------------------
@@ -145,9 +147,7 @@ a.text-success:hover {
 .text-white a {
 	color: #ffffff;
 }
-h3{
-	font-family: 'Michroma', sans-serif !important;
-}
+
 
 
 
@@ -2305,7 +2305,7 @@ h4.contact-info{
 }
 
 /*-------------------------------------------------------------------------------
-  7. contribution 26.03.2023
+  #. contribution 26.03.2023
 -------------------------------------------------------------------------------*/
 
 h3.titles, .titles {
@@ -2317,6 +2317,16 @@ h3.titles, .titles {
   .font-size-sm{
 	font-size: small !important;
   }
+
+  .contact-personal-card-title {
+    height: 70%;
+}
+
+.phone-link:hover {
+	color: inherit;
+	text-decoration: none;
+	color: #28a745;
+}
 
 
 /*-------------------------------------------------------------------------------
